@@ -20,3 +20,5 @@ ii) 'owid-covid-data.csv'
 
 All typed Colab file for convenience (you still need to load the csv's)
 https://colab.research.google.com/drive/1axOq74SVJgREktRj3vhajqrLg_TxhYZt?usp=sharing
+
+DEMO VIDEO: https://drive.google.com/file/d/1ge8TrXje5CjjyapC-mK9lMzSakPhMXdl/view?usp=sharing
