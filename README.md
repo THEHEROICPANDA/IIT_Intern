@@ -15,3 +15,6 @@ ii) 'owid-covid-data.csv'
 7) repeat step 4 & 5 for other 2 plots as well.
 
    END.
+
+All typed Colab file for convience (you still need to load the csv's)
+https://colab.research.google.com/drive/1axOq74SVJgREktRj3vhajqrLg_TxhYZt?usp=sharing
