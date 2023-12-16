@@ -9,9 +9,9 @@ i)  'AH_Excess_Deaths_by_Sex__Age__and_Race_and_Hispanic_Origin.csv'
 
 ii) 'owid-covid-data.csv'
 
-5) Copy the code from given python notebooks provided.
-6) paste the code and run.
-7) It will give you the designed matplotlib graph.
-8) repeat step 3 & 4 for other 2 plots as well.
+4) Copy the code from given python notebooks provided.
+5) paste the code and run.
+6) It will give you the designed matplotlib graph.
+7) repeat step 4 & 5 for other 2 plots as well.
 
    END.
