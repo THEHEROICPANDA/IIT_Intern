@@ -16,5 +16,5 @@ ii) 'owid-covid-data.csv'
 
    END.
 
-All typed Colab file for convience (you still need to load the csv's)
+All typed Colab file for convinience (you still need to load the csv's)
 https://colab.research.google.com/drive/1axOq74SVJgREktRj3vhajqrLg_TxhYZt?usp=sharing
